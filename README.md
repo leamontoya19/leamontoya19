@@ -12,8 +12,6 @@ Mi nombre es Leandra, soy Desarrolladora Web full stack con énfasis Ciberseguri
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leamontoya19&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leamontoya19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=leamontoya19&limit=5&theme=monokai&combine_all_yearly_contributions=true)
